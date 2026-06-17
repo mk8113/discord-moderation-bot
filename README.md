@@ -51,7 +51,7 @@ A fully featured Discord bot built in Python with moderation tools, AI integrati
 
 ### 2 — Clone the repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/discord-moderation-bot.git
+git clone https://github.com/mk8113/discord-moderation-bot.git
 cd discord-moderation-bot
 ```
 
